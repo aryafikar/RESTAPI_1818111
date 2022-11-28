@@ -1,0 +1,5 @@
+dependencyResolutionManagement {
+    r
+}
+rootProject.name = "Praktikum1_intent_1818112"
+include ':app'
